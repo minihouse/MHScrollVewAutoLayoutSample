@@ -30,7 +30,7 @@
 
 - (void)viewDidLayoutSubviews
 {
-    CGRect scrollViewRect = self.scrollView.frame;
+//    CGRect scrollViewRect = self.scrollView.frame;
 //    self.scrollView.contentSize = CGSizeMake(scrollViewRect.size.width * 2, scrollViewRect.size.height);
 }
 
